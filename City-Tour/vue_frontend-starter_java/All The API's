@@ -1,0 +1,15 @@
+
+amusement_park: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=amusement_park&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+aquarium: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=aquarium&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+art_gallery: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=art_gallery&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+bar: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=bar&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+casino: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=casino&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+cemetery: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=cemetery&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+church: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=church&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+library: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=library&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+museum: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=museum&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+night_club: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=1500&types=night_club&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+park: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=park&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+restaurant: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=restaurant&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+tourist_attraction: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=tourist_attraction&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
+zoo: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=41.8781, -87.6298&radius=24140&types=zoo&key=AIzaSyAso42k5sym5xcujpYvGz9RgPcmpo8HUH8
